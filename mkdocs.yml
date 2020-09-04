@@ -2,10 +2,18 @@ site_name: './infwiki'
 site_description: 'El repositorio de conocimiento de Informática UdeC'
 site_author: 'Mr. Alcerson'
 docs_dir: docs/
-repo_name: 'mhausenblas/actions-sandbox'
-repo_url: 'https://github.com/mhausenblas/actions-sandbox'
+repo_name: 'infwiki/infwiki.github.io'
+repo_url: 'https://github.com/infwiki/infwiki.github.io'
 nav:
     - '¡Bienvenido a Infwiki!': 'index.md'
+    - 'Primero': 'primero.md'
+    - 'Segundo': 'segundo.md'
+    - 'Tercero': 'tercero.md'
+    - 'Cuarto': 'cuarto.md'
+    - 'Quinto': 'quinto.md'
+    - 'Freebies': 'freebies.md'
+    - 'Software': 'software.md'
+    - 'Tutoriales': 'tutoriales.md'
 theme:
   name: 'material'
   logo: assets/logo.png
@@ -23,3 +31,12 @@ plugins:
 markdown_extensions:
   - footnotes
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      toc_depth : "1-1"
