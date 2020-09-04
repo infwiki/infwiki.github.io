@@ -1,6 +1,7 @@
 ![[^1]](img/udeconline.png){: style="height:110px; width:89px; display: block; margin: 0 auto; position:relative; left:20px; margin-right:auto; "}
  
 #¡Bienvenido a Infwiki! {: style="text-align: center; line-height:5px;"}
+
 #### El repositorio de conocimiento de Informática UdeC {: style="text-align: center;"}
 
 #### [[Listados, guias, certamenes, etc.]](https://mega.nz/folder/1Mh2DQDS#KSISMELgPthdeU9p-qqIgg)  [[Clases grabadas\*]](https://drive.google.com/drive/folders/1JCtStVdgV3FkQl5ED0d42b2X6wVfsWcs?usp=sharing) {: style="text-align: center;"}

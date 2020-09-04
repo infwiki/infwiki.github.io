@@ -22,9 +22,7 @@ theme:
     scheme: slate
     primary: blue
     accent: amber
-  font:
-    text: Fira Sans
-    code: Fira Mono
+  font: false
 plugins:
   - search
   - git-revision-date
@@ -40,3 +38,5 @@ markdown_extensions:
       custom_checkbox: true
   - toc:
       toc_depth : "1-1"
+extra_css:
+  - stylesheets/extra.css
