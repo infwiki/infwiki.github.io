@@ -4,7 +4,7 @@
 
 #### El repositorio de conocimiento de Informática UdeC {: style="text-align: center;"}
 
-#### [[Listados, guias, certamenes, etc.]](https://mega.nz/folder/1Mh2DQDS#KSISMELgPthdeU9p-qqIgg)  [[Clases grabadas\*]](https://drive.google.com/drive/folders/1JCtStVdgV3FkQl5ED0d42b2X6wVfsWcs?usp=sharing) {: style="text-align: center;"}
+#### [[Listados, guias, certamenes, etc.]](https://mega.nz/folder/RMwSRahA#zwO_1uVByuz6XE5trthaMQ)  [[Clases grabadas\*]](https://drive.google.com/drive/folders/1JCtStVdgV3FkQl5ED0d42b2X6wVfsWcs?usp=sharing) {: style="text-align: center;"}
 
 #####[[Cosas gratis para estudiantes]](freebies.md) [[Software]](software.md) [[Tutoriales]](tutoriales.md) {: style="text-align: center;"}
     
